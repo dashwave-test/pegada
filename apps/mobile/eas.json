@@ -1,6 +1,7 @@
 {
   "cli": {
-    "appVersionSource": "remote"
+    "appVersionSource": "remote",
+    "version": "7.0.0"
   },
   "build": {
     "fast": {
