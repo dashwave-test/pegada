@@ -151,8 +151,7 @@ const config: ExpoConfig = {
   ],
   androidStatusBar: {
     barStyle: "dark-content",
-    backgroundColor: "#ffffff"
-  },
+    backgroundColor: "#ffffff"},
   android: {
     playStoreUrl: "https://play.google.com/store/apps/details?id=app.pegada",
     permissions: ["com.google.android.gms.permission.AD_ID"],
